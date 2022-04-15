@@ -943,7 +943,13 @@ section {
         margin: 0 auto;
         margin-bottom: 50px;
     }
-
+    .mob-pic {
+        width: 300px !important;
+        margin-left: -25px;
+    }
+    .values .figcaption {
+        font-size: 11px;
+    }
     .values .text {
         font-size: 11px;
         color: white;
