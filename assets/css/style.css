@@ -956,6 +956,9 @@ section {
         width: 300px !important;
         margin-left: -25px;
     }
+    .hid-mob {
+        display: none;
+    }
     .values .figcaption {
         font-size: 11px;
     }
