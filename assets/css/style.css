@@ -694,6 +694,47 @@ section {
     height: 100%;
 }
 
+.values .box-nft {
+    box-shadow: 0px 0 5px rgba(1, 41, 112, 0.08);
+    background: #121212;
+    border-radius: 30px;
+    text-align: left;
+    transition: 0.3s;
+    height: 100%;
+}
+
+.values .details {
+padding-left: 15px;
+}
+
+.values .box-nft img {
+    transition: 0.5s;    
+    border-bottom-left-radius: 30px; 
+    padding-bottom: 5px;   
+    border-bottom-Right-radius: 30px;
+    width: 100%;
+}
+
+.values .nft-btn {
+     width:75px;
+     height: 75px;
+     border: solid 5px #975bb0;
+     background: transparent;
+     border-radius: 50%;
+     font-weight: 700;
+     font-size: 20px;
+     margin-left: 20px;
+}
+
+.values .box-nft .eth-icon {
+     width: 26px;
+}
+
+.values .box-nft p {
+    color: #975bb0;
+    margin-top: 10px;
+}
+
 .blog_box {
     padding: 30px;
     margin: 10%;
